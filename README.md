@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an undergraduate student with a deep curiosity
 
 * Diving deeper into **Reinforcement Learning** (RL), **Multi-Agent** and **Embodied AI**
 * Studying basic economics in order to gain a better understanding of the principles by which the world operates
-* Actively contributing to [**Pkuhub**]("https://pkuhub.cn") -- A Campus Platform for teachers and students at Peking University
+* Actively contributing to [**Pkuhub**](https://pkuhub.cn "Pkuhub") -- A Campus Platform for teachers and students at Peking University
 * Keeping up with cutting-edge AI news and world news daily
 
 ---
@@ -41,12 +41,12 @@ Welcome to my GitHub profile! I'm an undergraduate student with a deep curiosity
 
 ## 🚀 Featured Projects
 
-### 🌟 [Pkuhub]("https://pkuhub.cn")
+### 🌟 [Pkuhub](https://pkuhub.cn "Pkuhub")
 * **Overview:** A Campus Platform for teachers and students at Peking University (Now it only offer Notes sharing. We're currently develop Second-hand Marketplace)
 * **Tech Stack:** Python, Rust, JS
 * **Achievements:** 400+ Shared Files, 1000+ Registered Users, 2000+ Shared File Download Count
 
-➡️ Check out all my repositories [Repo]("https://github.com/Fomalhaut647?tab=repositories")
+➡️ Check out all my repositories [Repo](https://github.com/Fomalhaut647?tab=repositories "My Repo")
 
 ---
 
