@@ -75,9 +75,9 @@ Welcome to my GitHub profile! I'm an undergraduate student with a deep curiosity
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fomalhaut647&show_icons=true&theme=radical&rank_icon=github" alt="Fomalhaut647's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fomalhaut647&show_icons=true&theme=tokyonight&rank_icon=github" alt="Fomalhaut647's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fomalhaut647&layout=compact&theme=radical" alt="Fomalhaut647's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fomalhaut647&layout=compact&theme=tokyonight" alt="Fomalhaut647's Top Languages" />
 </p>
 
 ---
