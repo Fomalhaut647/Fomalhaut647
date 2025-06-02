@@ -19,6 +19,8 @@ Welcome to my GitHub profile! I'm an undergraduate student with a deep curiosity
 * **Tech Stack:** Python, Rust, JS
 * **Achievements:** 400+ Shared Files, 1000+ Registered Users, 2000+ Shared File Download Count
 * **Learnings** Learning about market research, needs analysis, product design, operational improvement, as well as collaboration with the university and other student organizations, and sponsorship seeking
+* If you have access to PKU campus network, use this [Pkuhub](https://i.pkuhub.cn, "Pkuhub") to gain faster speeds
+* Out of protection of intellectual property, you have to sign up with a PKU email to view and download files from this platform.
 
 ➡️ Check out all my repositories [Repo](https://github.com/Fomalhaut647?tab=repositories "My Repo")
 
