@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an undergraduate student with a deep curiosity
 
 ## 🎯 My Goals & Aspirations
 
-* Seeking Summer 2025 research and internship opportunities in **Reinforcement Learning**, **Multi-Agent** and **Embodied AI**
+* Seeking research and internship opportunities in **AI Safety and Alignment**
 * Continuously developing and advertising Pkuhub
 * Collaborating and connecting with peers interested in AI and economics
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm an undergraduate student with a deep curiosity
 ### 🌟 [Pkuhub](https://pkuhub.cn "Pkuhub")
 * **Overview:** A Campus Platform for teachers and students at Peking University (Now it only offer Notes sharing. We're currently develop Second-hand Marketplace)
 * **Tech Stack:** Python, Rust, JS
-* **Achievements:** 400+ Shared Files, 1000+ Registered Users, 2000+ Shared File Download Count
+* **Achievements:** 700+ Shared Files, 1900+ Registered Users, 6400+ Shared File Download Count
 * **Learnings** Learning about market research, needs analysis, product design, operational improvement, as well as collaboration with the university and other student organizations, and sponsorship seeking
 * If you have access to PKU campus network, use this [Pkuhub](https://i.pkuhub.cn, "Pkuhub") to gain faster speeds
 * Out of protection of intellectual property, you have to sign up with a PKU email to view and download files from this platform
@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm an undergraduate student with a deep curiosity
 
 ## 🌱 I'm currently...
 
-* Diving deeper into **Reinforcement Learning** (RL), **Multi-Agent** and **Embodied AI**
+* Diving deeper into **AI Safety and Alignment**
 * Studying basic economics in order to gain a better understanding of the principles by which the world operates
 * Actively contributing to [**Pkuhub**](https://pkuhub.cn "Pkuhub") -- A Campus Platform for teachers and students at Peking University
 * Keeping up with cutting-edge AI news and world news daily
