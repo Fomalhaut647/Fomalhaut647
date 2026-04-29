@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Zhiqi Liu!
 
-I'm Zhiqi Liu, an undergraduate student at **Peking University**, majoring in **Intelligent Science and Technology (AI)** and minoring in **Economics**.
+I'm an undergraduate student at **Peking University**, majoring in **Intelligent Science and Technology (AI)** and minoring in **Economics**.
 
 I'm interested in **AI Agents, real-world workflow automation, multi-agent collaboration, demand analysis, and product design**. I'm currently working on an AI Agent project for automating financial and accounting workflows for small and medium-sized enterprises. At the same time, I'm learning more about Agent systems, Coding Agent techniques, multi-agent collaboration, and how to design valuable products based on real user needs.
 
@@ -105,16 +105,6 @@ This project is still under active iteration. I'm validating its demand boundari
 - Workflow analysis
 - Excel automation
 - Financial data processing
-
----
-
-## 🌱 I'm currently...
-
-- Working on an AI Agent project for financial and accounting workflow automation for SMEs
-- Learning about Agent systems, tool use, context management, long-term memory, and workflow orchestration
-- Studying how to use Coding Agents more effectively for real engineering tasks
-- Exploring multi-agent collaboration and its applications in software development, knowledge management, and enterprise workflow automation
-- Learning methods for demand analysis, user interviews, product design, MVP design, and product iteration
 
 ---
 
